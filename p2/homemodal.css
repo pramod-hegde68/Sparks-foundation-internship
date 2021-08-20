@@ -1,0 +1,176 @@
+
+
+body{
+    background-color: rgb(194, 208, 213);
+    /* background-image: url(https://th.bing.com/th/id/Rbea0e20fd46bdd079d147cc36d3f446d?rik=TjqwrIl%2bF0GWQw&riu=http%3a%2f%2fst.depositphotos.com%2f1024952%2f2482%2fi%2f950%2fdepositphotos_24820335-stock-photo-white-textured-paper.jpg&ehk=Xvpejf1zXqmcGv086PZ8Z2G%2fQ%2fAPcwfM4uKFQYl6VHI%3d&risl=&pid=ImgRaw);
+     */
+}
+
+
+
+header{
+        width:100%;
+        margin-top:auto;
+        overflow: hidden;
+        background-color:gold;
+        
+    }
+.head{
+        float: left;
+        color: black;
+        margin-left: 1cm;
+        margin-top: 4mm;
+        font-family: cursive;
+    }
+   
+header nav{
+        float: right;
+        margin-top: 0.5cm;
+        margin-bottom: 0.25cm;
+    }
+li{
+        display: inline;
+        padding: 1rem; 
+    }
+   
+li:hover{
+        background-color:rgb(117, 117, 111);;
+     }
+li a{
+        color:whitesmoke;
+        text-decoration: none;
+        font-weight: bold;
+        
+    }
+.active{
+        color:red;
+        font-size: 22px;
+    }
+.active:hover{
+        color: red;
+    }
+  
+/* .category img{
+        width: 200px;
+        height: 200px;
+    } */
+.category{
+        color:black;
+        margin-top: 1%;
+        font-family: cursive;
+        display: flex;
+        margin-left: 40px;
+        text-align: center;
+    }
+.container{
+        float: left;
+        width:90%;
+        margin:auto;
+        margin-bottom: 1cm;
+        margin-top: 1%;
+        overflow: hidden;
+        
+    }
+
+/* .spb{
+        padding-right: 0rem;
+    } */
+
+.joshi{
+        padding-left: 6rem;
+    }
+
+.janaki{
+        padding-left:6rem;
+    }
+
+/* .spb img{
+        border-radius: 60%;
+    } */
+
+/* .joshi img{
+        border-radius: 60%;
+    }
+
+.janaki img{
+        border-radius: 60%;
+    } */
+
+h4:hover{
+        font-size: 123%;
+        color:indigo;
+    }
+
+.carousel-inner img{
+        background-color: rgb(117, 117, 111);
+        width: 100%;
+        height: 50%;
+    }
+
+.policy{
+        float:left;
+        padding-right: 60px;
+        /* border-right: 3px double black; */
+        
+        
+        
+    }
+
+.policy h2{
+        color: gold;
+        
+        margin-top: 1cm;
+        font-family: cursive;
+    }
+
+.policy address{
+        color: rgb(240, 240, 233);
+        
+    }
+
+.join{ 
+        float: left;
+        margin-left: 14cm;
+        margin-right: 2cm;
+        padding-left: 60px;
+        /* border-left: 3px double black; */
+        
+     }
+
+ .join a{
+    text-decoration:none;
+    color: rgb(240, 240, 233);
+     }
+
+.join p{
+         color:rgb(240, 240, 233) ;
+         margin-top: 1cm;
+     }
+
+.join a:hover{
+         color: gold;
+     }
+     
+footer{
+        
+        width:100%;
+        margin-top: 10mm;
+        overflow: hidden;
+        background-color:gray;
+     }
+     
+.card{
+        border: 2px  solid black;
+       
+}
+.logo{
+  margin-left:2cm;
+  margin-right: 1cm;
+  margin-top:40px; 
+  float: left;
+}
+.logo img{
+  border-radius: 30%;
+  background-color: blanchedalmond;
+}
+
